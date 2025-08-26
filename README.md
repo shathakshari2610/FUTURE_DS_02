@@ -1,6 +1,6 @@
 # FUTURE_DS_02
 “E-commerce Sales Dashboard in Power BI”
-# Power BI Internship - Task 2
+# FUTURE_DS_02- Task 2
 
 ## Objective
 Task 2 focuses on creating **Sales Insights Dashboards** using Power BI to visualize data trends and key metrics.
