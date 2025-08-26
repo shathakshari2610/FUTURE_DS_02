@@ -1,0 +1,9 @@
+# Ignore system/junk files
+AppData/
+*.tmp
+*.log
+*.history
+.ipynb_checkpoints/
+.vscode/
+*.pyc
+__pycache__/
